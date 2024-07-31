@@ -4,12 +4,12 @@
 
 1. **Build the Docker Image**:
     ```bash
-    docker build -t lastname_firstname_coding_assignment11 .
+    docker build -t tu_tran_coding_assignment11 .
     ```
 
 2. **Run the Docker Container**:
     ```bash
-    docker run -p 127.0.0.1:7775:7775 lastname_firstname_coding_assignment11
+    docker run -p 127.0.0.1:7775:7775 tu_tran_coding_assignment11
     ```
 
 3. **Access the Application**:
